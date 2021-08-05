@@ -1,23 +1,26 @@
 # Hi there 👋
 
 My name is Ostap and I am a 2nd year student of Ukrainian Catholic University :)
+---
 
 ## 📚 About:
 
----
 ### 🔭 I’m currently working on releasing my game "Johnny Jorney" written in [Godot](https://godotengine.org/).
----
+
+
 ### 🌱 I’m currently learning:
 - Python
 - Godot/GDScript and Game development
 - Linux :D
----
+
+
 ### 🎥 I have a Youtube channel called Ade0n C0ding. Here are some vids:
 
  - **[Garuda Linux in 7 Minutes](https://www.youtube.com/watch?v=WpKTOYUP4Fg)**
  - **[PEP8 or How to write beautiful code](https://www.youtube.com/watch?v=Y8wAAZwPFhs&t=257s)**
  - **[Manjaro GNOME Tutorial](https://www.youtube.com/watch?v=2uzvrCXSrhc&t=155s)**
----
+
+
 ### 📫 How to reach me:
 - 📃 <ostaptrush18@gmail.com> 
 - 💻 [Telegram](https://t.me/ade0n18)
