@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Ostap and I am a 2nd year student of Ukrainian Catholic University :)
+My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catholic University :)
 ---
 
 ## 📚 About:
