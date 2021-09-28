@@ -5,13 +5,15 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 
 ## 📚 About:
 
-### 🔭 I’m currently working on releasing my game "Johnny Jorney" written in [Godot](https://godotengine.org/).
+### 🔭 I’m currently working on releasing my game "Johnny Journey" written in [Godot](https://godotengine.org/).
 
 
 ### 🌱 I’m currently learning:
-- Python
-- Godot/GDScript and Game development
-- Linux :D
+- С **!!!**
+- Java and OOP **!!**
+- Godot/GDScript and Game development **!**
+- Linux :D **!!!**
+- Python **!**
 
 
 ### 🎥 I have a Youtube channel called [Ade0n C0ding](https://www.youtube.com/c/Ade0nC0ding). Here are some vids:
