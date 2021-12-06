@@ -5,13 +5,13 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 
 ## 📚 About:
 
-### 🔭 I’m currently working on releasing my game "Johnny Journey" written in [Godot](https://godotengine.org/).
+### 🔭 I’m currently working on releasing my game "Johnny The Pest" written in [Godot](https://godotengine.org/).
 
 
 ### 🌱 I’m currently learning:
-- С **!!!**
-- Java and OOP **!!**
-- Godot/GDScript and Game development **!**
+- С **!!**
+- Java and OOP **!**
+- Godot/GDScript and Game development **!!!**
 - Linux :D **!!!**
 - Python **!**
 
@@ -36,6 +36,7 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
   <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeon18&count_private=true&theme=dracula">
   -->
+
 
 </p>
 
