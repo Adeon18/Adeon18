@@ -6,6 +6,7 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 ## 📚 About:
 
 ### 🔭 I’m currently working on releasing my game "Johnny The Pest" written in [Godot](https://godotengine.org/).
+- [Game Twitter](https://twitter.com/thepestgame)
 
 
 ### 🌱 I’m currently learning:
