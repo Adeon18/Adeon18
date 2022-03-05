@@ -31,7 +31,6 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 
 ### 🎥 I have a Youtube channel called [Ade0n C0ding](https://www.youtube.com/c/Ade0nC0ding). Here are some vids:
 
- - 
  - **[Linux Mint in 7 Minutes](https://youtu.be/S2LXbadQuwQ)**
  - **[PEP8 or How to write beautiful code](https://www.youtube.com/watch?v=Y8wAAZwPFhs&t=257s)**
  - **[Endeavour OS in 7 Minutes](https://youtu.be/BxPpWnFF6Jw)**
