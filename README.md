@@ -5,17 +5,26 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 
 ## 📚 About:
 
-### 🔭 I’m currently working on releasing my game "Johnny The Pest" written in [Godot](https://godotengine.org/).
+### 🔭 I’m currently working on releasing my game "The Pest" written in [Godot](https://godotengine.org/).
 - [Game Twitter](https://twitter.com/thepestgame)
-
+- [Steam](https://store.steampowered.com/app/1823100/The_Pest/)
+- **Wishlist now!**
 
 ### 🌱 I’m currently learning:
-- С **!!**
-- Java and OOP **!**
+- С++ and Parallel Programming **!!!**
 - Godot/GDScript and Game development **!!!**
-- Linux :D **!!!**
-- Python **!**
+- Linux :D **!!**
 
+
+### ⚰️ Skills:
+**!!!!!**
+- Godot, GDScript, 2D Game Development
+**!!!!**
+- Python: _Pygame, Pandas_
+**!!**
+- Java: _OOP Patterns, SOLID, GRASP, Data Structures_
+**!**
+- C/C++: _Learning currently.._
 
 ### 🎥 I have a Youtube channel called [Ade0n C0ding](https://www.youtube.com/c/Ade0nC0ding). Here are some vids:
 
