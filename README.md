@@ -17,20 +17,24 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 
 
 ### ⚰️ Skills:
-**!!!!!**
+ﱣ ﱣ ﱣ ﱣ ﱣ
 - Godot, GDScript, 2D Game Development
-**!!!!**
+
+ﱤ ﱣ ﱣ ﱣ ﱣ 
 - Python: _Pygame, Pandas_
-**!!**
+
+ﱤ ﱤ ﱤ ﱣ ﱣ 
 - Java: _OOP Patterns, SOLID, GRASP, Data Structures_
-**!**
+
+ﱤ ﱤ ﱤ ﱤ ﱣ 
 - C/C++: _Learning currently.._
 
 ### 🎥 I have a Youtube channel called [Ade0n C0ding](https://www.youtube.com/c/Ade0nC0ding). Here are some vids:
 
- - **[Garuda Linux in 7 Minutes](https://www.youtube.com/watch?v=WpKTOYUP4Fg)**
+ - 
+ - **[Linux Mint in 7 Minutes](https://youtu.be/S2LXbadQuwQ)**
  - **[PEP8 or How to write beautiful code](https://www.youtube.com/watch?v=Y8wAAZwPFhs&t=257s)**
- - **[Manjaro GNOME Tutorial](https://www.youtube.com/watch?v=2uzvrCXSrhc&t=155s)**
+ - **[Endeavour OS in 7 Minutes](https://youtu.be/BxPpWnFF6Jw)**
 
 ### 📫 How to reach me:
 - 📃 <ostaptrush18@gmail.com> 
