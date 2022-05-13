@@ -23,11 +23,11 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 **! ! ! !**
 - Python: _Pygame, Pandas_
 
+**! ! !**
+- C/C++: _Concurrent programming_
+
 **! !**
 - Java: _OOP Patterns, SOLID, GRASP, Data Structures_
-
-**!**
-- C/C++: _Learning currently.._
 
 ### 🎥 I have a Youtube channel called [Ade0n C0ding](https://www.youtube.com/c/Ade0nC0ding). Here are some vids:
 
@@ -36,7 +36,7 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
  - **[Endeavour OS in 7 Minutes](https://youtu.be/BxPpWnFF6Jw)**
 
 ### 📫 How to reach me:
-- 📃 <ostaptrush18@gmail.com> 
+- 📃 <ostap.trush.2003@gmail.com> 
 - 💻 [Telegram](https://t.me/ade0n18)
 
 ---
@@ -46,9 +46,8 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Adeon18&count_private=true&show_icons=true&theme=tokyonight">
-  <!--
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeon18&count_private=true&theme=dracula">
-  -->
 
 
 </p>
