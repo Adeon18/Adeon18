@@ -47,7 +47,7 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
   
   <img src="https://github-readme-stats.vercel.app/api?username=Adeon18&count_private=true&show_icons=true&theme=tokyonight">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeon18&count_private=true&theme=dracula">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeon18&count_private=true&theme=dracula"> -->
 
 
 </p>
