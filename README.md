@@ -5,7 +5,13 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 
 ## 📚 About:
 
-### 🔭 I’m currently working on releasing my game "The Pest" written in [Godot](https://godotengine.org/).
+### 💾 I am currently looking to collaborate on some interesting projects :)
+- Anything C++ Related or just any fast and effective programming
+- Maybe will try to learn Unreal Engine, idk...
+- If you have something interesting => hit me up!
+- please...
+
+### 🔭 I have recently released my first game - "The Pest" on Steam, written in [Godot](https://godotengine.org/).
 - [Game Twitter](https://twitter.com/thepestgame)
 - [Steam](https://store.steampowered.com/app/1823100/The_Pest/)
 - **Wishlist now!**
