@@ -1,15 +1,15 @@
 # Hi there 👋
 
-My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catholic University :)
+My name is Ostap and I am a 3rd year Computer Science student of Ukrainian Catholic University :)
 ---
 
 ## 📚 About:
 
-### 💾 I am currently looking to collaborate on some interesting projects :)
-- Anything C++ Related or just any fast and effective programming
-- Maybe will try to learn Unreal Engine, idk...
-- If you have something interesting => hit me up!
-- please...
+### 💾 I am interested in:
+- Anything C++ Related :)
+- Game Development and Graphics programming
+- Potentially learning Unreal engine
+- Interested in collaborating on some cool projects :)
 
 ### 🔭 I have recently released my first game - "The Pest" on Steam, written in [Godot](https://godotengine.org/).
 - [Game Twitter](https://twitter.com/thepestgame)
@@ -17,7 +17,7 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 - **Wishlist now!**
 
 ### 🌱 I’m currently learning:
-- С++ and Parallel Programming **!!!**
+- С++ **!!!**
 - Godot/GDScript and Game development **!!!**
 - Linux :D **!!**
 
@@ -26,11 +26,11 @@ My name is Ostap and I am a 2nd year Computer Science student of Ukrainian Catho
 **! ! ! ! !**
 - Godot, GDScript, 2D Game Development
 
-**! ! ! !**
-- Python: _Pygame, Pandas_
+**! ! ! ! !**
+- C/C++: _Concurrent programming/Algorithms and Data Strictures/Writing my own STL components_
 
 **! ! !**
-- C/C++: _Concurrent programming_
+- Python: _Pygame, Pandas_
 
 **! !**
 - Java: _OOP Patterns, SOLID, GRASP, Data Structures_
