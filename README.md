@@ -25,9 +25,7 @@ My name is Ostap and I am a 3rd year Computer Science student of Ukrainian Catho
 ### ⚰️ Skills:
 **! ! ! ! !**
 - Godot, GDScript, 2D Game Development
-
-**! ! ! ! !**
-- C/C++: _Concurrent programming/Algorithms and Data Strictures/Writing my own STL components_
+- C++ _Concurrent programming/Algorithms and Data Strictures/Writing my own STL components, working with POSIX syscalls, OOP_
 
 **! ! !**
 - Python: _Pygame, Pandas_
