@@ -6,9 +6,9 @@ My name is Ostap and I am a 3rd year Computer Science student of Ukrainian Catho
 ## 📚 About:
 
 ### 💾 I am interested in:
-- Render/Computer Graphics
-- C++
-- Learning DX/OpenGL/Vulkan
+- **Render/Computer Graphics**
+- **C++**
+- **Learning DirextX/OpenGL/Vulkan**
 - Cars :D
 
 ### 🌱 I’m currently learning:
@@ -17,13 +17,14 @@ My name is Ostap and I am a 3rd year Computer Science student of Ukrainian Catho
 
 ### ⚰️ Skills:
 **! ! ! ! !**
-- С++
-- DirectX11/hlsl
+- **С++**
+- **DirectX11/hlsl**
 
 **! ! ! !**
-- Glsl
-- Godot/GDScript
-- Python
+- **Godot/GDScript**
+- **Python**
+- **Bash**
+- **Linux**
 
 ### 🔭 I have recently released my first game - "The Pest" on Steam, written in [Godot](https://godotengine.org/).
 - [Game Twitter](https://twitter.com/thepestgame)
