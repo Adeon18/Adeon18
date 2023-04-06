@@ -1,37 +1,34 @@
 # Hi there 👋
 
-My name is Ostap and I am a 3rd year Computer Science student of Ukrainian Catholic University :)
+My name is Ostap and I am a 3rd year Computer Science student of Ukrainian Catholic University and a Render Intern at Dragons Lake
 ---
 
 ## 📚 About:
 
 ### 💾 I am interested in:
-- Anything C++ Related :)
-- Game Development and Graphics programming
-- Potentially learning Unreal engine
-- Interested in collaborating on some cool projects :)
+- Render/Computer Graphics
+- C++
+- Learning DX/OpenGL/Vulkan
+- Cars :D
+
+### 🌱 I’m currently learning:
+- С++ **!!!**
+- DirectX and Render Theotry **!!!**
+
+### ⚰️ Skills:
+**! ! ! ! !**
+- С++
+- DirectX11/hlsl
+
+**! ! ! !**
+- Glsl
+- Godot/GDScript
+- Python
 
 ### 🔭 I have recently released my first game - "The Pest" on Steam, written in [Godot](https://godotengine.org/).
 - [Game Twitter](https://twitter.com/thepestgame)
 - [Steam](https://store.steampowered.com/app/1823100/The_Pest/)
-- **Wishlist now!**
-
-### 🌱 I’m currently learning:
-- С++ **!!!**
-- Godot/GDScript and Game development **!!!**
-- Linux :D **!!**
-
-
-### ⚰️ Skills:
-**! ! ! ! !**
-- Godot, GDScript, 2D Game Development
-- C++ _Concurrent programming/Algorithms and Data Strictures/Writing my own STL components, working with POSIX syscalls, OOP_
-
-**! ! !**
-- Python: _Pygame, Pandas_
-
-**! !**
-- Java: _OOP Patterns, SOLID, GRASP, Data Structures_
+- **You can play it now!**
 
 ### 🎥 I have a Youtube channel called [Ade0n C0ding](https://www.youtube.com/c/Ade0nC0ding). Here are some vids:
 
