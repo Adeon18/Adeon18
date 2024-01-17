@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Ostap and I am a 3rd year Computer Science student of Ukrainian Catholic University and a Render Intern at Dragons Lake
+My name is Ostap and I am a 4th year CS Student at UCU and Graphics Programmer at Volmi
 ---
 
 ## 📚 About:
@@ -13,12 +13,13 @@ My name is Ostap and I am a 3rd year Computer Science student of Ukrainian Catho
 
 ### 🌱 I’m currently learning:
 - С++ **!!!**
-- DirectX and Render Theotry **!!!**
+- Vulkan and Render Theotry **!!!**
 
 ### ⚰️ Skills:
 **! ! ! ! !**
 - **С++**
 - **DirectX11/hlsl**
+- **UE5**
 
 **! ! ! !**
 - **Godot/GDScript**
